@@ -9,7 +9,7 @@ Java idiomatic client for [Cloud Retail][product-docs].
 - [Client Library Documentation][javadocs]
 
 
-## Quickstart
+
 
 
 If you are using Maven, add this to your pom.xml file:
